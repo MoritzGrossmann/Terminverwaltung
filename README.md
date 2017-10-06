@@ -1,2 +1,0 @@
-# Terminverwaltung
-Studenarbeit RESTful Webservices
